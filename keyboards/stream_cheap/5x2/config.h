@@ -14,7 +14,7 @@
 #define MATRIX_COLS 2
 
 /* define direct pins used */
-#define DIRECT_PINS { { E6, D1 }, { B4, D0 }, { B5, D4 }, { B6, D6 }, { F7, D7 } }
+#define DIRECT_PINS { { E6, D1 }, { B4, D0 }, { B5, D4 }, { B6, C6 }, { F7, D7 } }
 
 /* Set 0 if debouncing isn't needed */
 #define DEBOUNCE 5
